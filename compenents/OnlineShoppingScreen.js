@@ -8,7 +8,7 @@ function OnlineShoppingScreen() {
         <View style={styles.container}>
             
             <View >
-                <Text  style={styles.textHeader}>Online Shopping</Text>
+                <Text  style={styles.textHeader}>ONLINE SHOPPING</Text>
             </View>
 
             <View style={styles.infoContainer}>
@@ -80,6 +80,7 @@ buttonContainer:{
 },
 infoContainer:{
     marginTop: 10,
+    fontWeight: "bold"
     
 },
 
